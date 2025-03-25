@@ -14,5 +14,3 @@ Skills: HTML / CSS / JavaScript / Python / PHP / Graphic Design
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Maysur-Rahman-Bhuiyan)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/md-maysur-rahman-bhuiyan-204b01348//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg' alt='YouTube' height='40'>](https://www.youtube.com/channel/youtube.com/@CodeWithMaysur)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](Adiyaan.com)  
 
-![Vaunt Badge](https://api.vaunt.dev/v1/github/entities/Maysur-Rahman-Bhuiyan/contributions?format=svg&private=false)  
-
